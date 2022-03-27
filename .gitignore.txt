@@ -1,0 +1,2 @@
+[Ss]etup/
+*.vcxproj.user
